@@ -1,7 +1,5 @@
 # Spatial Computing Fundamentals
 
----
-
 ## Body-Centric Computing
 
 ##### Designing for the Human Body in XR (2017) [\[Link\]](https://virtualrealitypop.com/designing-for-the-human-body-in-xr-e9ac88931e45)
@@ -22,8 +20,6 @@ _Martin Shubert, Barrett Fox, Leap Motion_
 ##### The Design of Time: Understanding Human Attention and Economies of Engagement (2017) [\[YouTube\]](https://www.youtube.com/watch?v=gIrfxZ4KbOA)
 _Chelsea Howe, Owlchemy Labs_
 
----
-
 ## Design Guidelines
 
 ##### Design for Mixed Reality [\[Link\]](https://docs.microsoft.com/en-us/windows/mixed-reality/design)
@@ -37,8 +33,6 @@ _Yasser Malaik, Valve_
 
 ##### Designing for Virtual Reality (2015) [\[YouTube\]](https://www.youtube.com/watch?v=Qwh1LBzz3AU)
 _Alex Faaborg, Erica Morse, Jon Wiley, Manuel Clement, Google_
-
----
 
 ## Technical Fundamentals
 
@@ -66,8 +60,6 @@ _Michael Abrash_
 ##### Oculus VR Best Practices Guide (2014+) [\[Link\]](http://static.oculus.com/documentation/pdfs/intro-vr/latest/bp.pdf)
 _Oculus VR_
 
----
-
 ## Academic Literature
 
 ##### VIRTUAL REALITY (2017) [\[PDF\]](http://vr.cs.uiuc.edu/vrbook.pdf)
@@ -79,7 +71,7 @@ _Konstantina Kilteni, Raphaela Groten, Mel Slater_
 ##### How our body influences our perception of the world (2015) [\[Link\]](https://www.ncbi.nlm.nih.gov/pubmed/26124739) 
 _Lawrence R. Harris et al_
 
-##### Six Views of Embodied Cognition (2002) [\[PDF\]](http://www.indiana.edu/~cogdev/labwork/WilsonSixViewsofEmbodiedCog.pdf 
+##### Six Views of Embodied Cognition (2002) [\[PDF\]](http://www.indiana.edu/~cogdev/labwork/WilsonSixViewsofEmbodiedCog.pdf)
 _Margaret Wilson, UC Santa Cruz_
 
 ##### “Do you feel in control?”: Towards Novel Approaches to Characterise, Manipulate and Measure the Sense of Agency in Virtual Environments (2018) [\[PDF\]](https://camillejeunet.files.wordpress.com/2018/01/paper1249_final.pdf)
