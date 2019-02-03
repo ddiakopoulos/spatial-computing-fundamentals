@@ -1,6 +1,4 @@
-# Spatial Computing Fundamentals
-
-## Body-Centric Computing
+## Body-centric & Spatio-temporal Computing
 
 ##### Why Virtual Isn't Real to your Brain (2012) [\[Link\]](http://blogs.valvesoftware.com/abrash/why-virtual-isnt-real-to-your-brain/)
 _Michael Abrash_
