@@ -43,6 +43,10 @@ _Microsoft Corporation_
 _Oculus VR_
 
 ##### Daqri AR Best Practices (2016) [\[Link\]](https://support.daqri.com/#!/content/ar-best-practices)
+_Daqri_ 
+
+##### Social Virtual Reality Best Practices (2018) [\[PDF\]](https://cdn.ymaws.com/www.igda.org/resource/collection/F9DE623A-C632-47D8-81C3-CB283FD7ECEE/Social_Virtual_Reality_Best_Practices.pdf)
+_Renee Gittins_
 
 ## Technical Fundamentals
 
@@ -81,7 +85,5 @@ _Margaret Wilson, UC Santa Cruz_
 ##### “Do you feel in control?”: Towards Novel Approaches to Characterise, Manipulate and Measure the Sense of Agency in Virtual Environments (2018) [\[PDF\]](https://camillejeunet.files.wordpress.com/2018/01/paper1249_final.pdf)
 _Camille Jeunet, Louis Albert, Ferran Argelaguet, Anatole Lecuyer_
 
-##### Informing the Design of Novel Input Methods with Muscle Coactivation Clustering [\[PDF\]](http://resources.mpi-inf.mpg.de/coactivationclustering/bachynskyi2015.pdf)
-
-
-
+##### Informing the Design of Novel Input Methods with Muscle Coactivation Clustering (2015) [\[PDF\]](http://resources.mpi-inf.mpg.de/coactivationclustering/bachynskyi2015.pdf)
+_Myroslav Bachynskyi, Gregorio Palmas, Antti Oulasvirta, Tino Weinkauf_
