@@ -1,4 +1,4 @@
-## Body-centric & Spatio-temporal Computing
+## Body-Centric & Spatio-Temporal Computing
 
 ##### Why Virtual Isn't Real to your Brain (2012) [\[Link\]](http://blogs.valvesoftware.com/abrash/why-virtual-isnt-real-to-your-brain/)
 _Michael Abrash_
@@ -46,7 +46,7 @@ _Daqri_
 ##### Social Virtual Reality Best Practices (2018) [\[PDF\]](https://cdn.ymaws.com/www.igda.org/resource/collection/F9DE623A-C632-47D8-81C3-CB283FD7ECEE/Social_Virtual_Reality_Best_Practices.pdf)
 _Renee Gittins_
 
-## Technical Fundamentals
+## Technical Foundation
 
 ##### [Color Theory] From Hexcodes to Eyeballs (2018) [\[Link\]](http://jamie-wong.com/post/color/) 
 _Jamie Wong_
