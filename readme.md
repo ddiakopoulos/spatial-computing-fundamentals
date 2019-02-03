@@ -22,9 +22,6 @@ _Chelsea Howe, Owlchemy Labs_
 
 ## Design Guidelines
 
-##### Design for Mixed Reality [\[Link\]](https://docs.microsoft.com/en-us/windows/mixed-reality/design)
-_Microsoft Corporation_
-
 ##### Visual Design Methods for Virtual Reality (2015) [\[Link\]](http://aperturesciencellc.com/vr/VisualDesignMethodsforVR_MikeAlger.pdf)
 _Mike Alger_
 
@@ -33,6 +30,17 @@ _Yasser Malaik, Valve_
 
 ##### Designing for Virtual Reality (2015) [\[YouTube\]](https://www.youtube.com/watch?v=Qwh1LBzz3AU)
 _Alex Faaborg, Erica Morse, Jon Wiley, Manuel Clement, Google_
+
+## Best Practices
+
+##### Design for Mixed Reality [\[Link\]](https://docs.microsoft.com/en-us/windows/mixed-reality/design)
+_Microsoft Corporation_
+
+##### Oculus VR Best Practices Guide (2014+) [\[PDF\]](http://static.oculus.com/documentation/pdfs/intro-vr/latest/bp.pdf)
+_Oculus VR_
+
+##### Daqri AR Best Practices (2016) [\[Link\]](https://support.daqri.com/#!/content/ar-best-practices)
+
 
 ## Technical Fundamentals
 
@@ -56,9 +64,6 @@ _Gordon Wetzstein, Stanford University_
 
 ##### Why Virtual Isn't Real to your Brain (2012) [\[Link\]](http://blogs.valvesoftware.com/abrash/why-virtual-isnt-real-to-your-brain/)
 _Michael Abrash_
-
-##### Oculus VR Best Practices Guide (2014+) [\[Link\]](http://static.oculus.com/documentation/pdfs/intro-vr/latest/bp.pdf)
-_Oculus VR_
 
 ## Academic Literature
 
