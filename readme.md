@@ -1,4 +1,8 @@
-## Body-Centric & Spatio-Temporal Computing
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ddiakopoulos/spatial-computing-fundamentals/master/assets/spatial-header.png"/>
+</p>
+
+## Body-centric Computing
 
 ##### Why Virtual Isn't Real to your Brain (2012) [\[Link\]](http://blogs.valvesoftware.com/abrash/why-virtual-isnt-real-to-your-brain/)
 _Michael Abrash_
