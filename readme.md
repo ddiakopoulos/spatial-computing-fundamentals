@@ -33,7 +33,7 @@ _Yasser Malaik, Valve_
 ##### Designing for Virtual Reality (2015) [\[YouTube\]](https://www.youtube.com/watch?v=Qwh1LBzz3AU)
 _Alex Faaborg, Erica Morse, Jon Wiley, Manuel Clement, Google_
 
-#### A Quick Guide to Designing for AR on Mobile (2019) [\[Part 1\]](https://medium.com/@goatsandbacon/a-quick-guide-to-designing-for-augmented-reality-on-mobile-part-1-c8ecaaf303d5) [\[Part 2\]](https://medium.com/@goatsandbacon/a-quick-guide-to-designing-for-augmented-reality-on-mobile-part-2-fb76fe87dd41) [\[Part 3\]](https://medium.com/@goatsandbacon/a-quick-guide-to-designing-for-augmented-reality-on-mobile-part-3-2380f253467a) [\[Part 4\]](https://medium.com/@goatsandbacon/a-quick-guide-to-designing-for-augmented-reality-on-mobile-part-4-f554f5b80c24)
+##### A Quick Guide to Designing for AR on Mobile (2019) [\[Part 1\]](https://medium.com/@goatsandbacon/a-quick-guide-to-designing-for-augmented-reality-on-mobile-part-1-c8ecaaf303d5) [\[Part 2\]](https://medium.com/@goatsandbacon/a-quick-guide-to-designing-for-augmented-reality-on-mobile-part-2-fb76fe87dd41) [\[Part 3\]](https://medium.com/@goatsandbacon/a-quick-guide-to-designing-for-augmented-reality-on-mobile-part-3-2380f253467a) [\[Part 4\]](https://medium.com/@goatsandbacon/a-quick-guide-to-designing-for-augmented-reality-on-mobile-part-4-f554f5b80c24)
 _Bushra Mahmood_
 
 ## Best Practices
