@@ -89,3 +89,6 @@ _Camille Jeunet, Louis Albert, Ferran Argelaguet, Anatole Lecuyer_
 
 ##### Informing the Design of Novel Input Methods with Muscle Coactivation Clustering (2015) [\[PDF\]](http://resources.mpi-inf.mpg.de/coactivationclustering/bachynskyi2015.pdf)
 _Myroslav Bachynskyi, Gregorio Palmas, Antti Oulasvirta, Tino Weinkauf_
+
+##### Consumed Endurance: A Metric to Quantify Arm Fatigue of Mid-Air Interactions (2014) [\[PDF\]](http://hci.cs.umanitoba.ca/assets/publication_files/Consumed_Endurance_-_CHI_2014.pdf)
+_Hincapie-Ramos, Juan David and Guo, Xiang and Moghadasian, Paymahn and Irani, Pourang_
