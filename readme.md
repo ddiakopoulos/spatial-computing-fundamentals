@@ -2,10 +2,7 @@
   <img src="https://raw.githubusercontent.com/ddiakopoulos/spatial-computing-fundamentals/master/assets/spatial-header.png"/>
 </p>
 
-## Body-centric Computing
-
-##### Why Virtual Isn't Real to your Brain (2012) [\[Link\]](http://blogs.valvesoftware.com/abrash/why-virtual-isnt-real-to-your-brain/)
-_Michael Abrash_
+## Somatic Computing
 
 ##### Designing for the Human Body in XR (2017) [\[Link\]](https://virtualrealitypop.com/designing-for-the-human-body-in-xr-e9ac88931e45)
 _Lauren Bedal_
@@ -22,10 +19,13 @@ _Chelsea Howe, Owlchemy Labs_
  3. ###### Exploring the Hand-Object Boundary (2017) [\[Link\]](http://blog.leapmotion.com/interaction-sprint-exploring-the-hand-object-boundary/)
 _Martin Schubert & Barrett Fox, Leap Motion_
 
-##### Oculus Hand Tracking Best Practices [\[Link\]](https://developer.oculus.com/design/hands-design-intro/)
+##### Why Virtual Isn't Real to your Brain (2012) [\[Link\]](http://blogs.valvesoftware.com/abrash/why-virtual-isnt-real-to-your-brain/)
+_Michael Abrash_
+
+##### Oculus Hand Tracking Best Practices (2020) [\[Link\]](https://developer.oculus.com/design/hands-design-intro/)
 _Facebook/Oculus_
 
-##### Spatial Computing is Not A Revolution [\[Link\]](https://blog.dimitridiakopoulos.com/2019/06/13/spatial-computing-hci/)
+##### Spatial Computing is Not A Revolution (2019) [\[Link\]](https://blog.dimitridiakopoulos.com/2019/06/13/spatial-computing-hci/)
 _Dimitri Diakopoulos_
 
 ## Design Guidelines
