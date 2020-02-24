@@ -33,14 +33,11 @@ _Dimitri Diakopoulos_
 ##### XR Design Theory and Practice for Digital Eyewear (2020) [\[YouTube\]](https://www.youtube.com/watch?v=4o__z7aPlMw)
 _Mike Alger_
 
-##### Interaction Design in VR (2015) [\[YouTube\]](https://www.youtube.com/watch?v=_vQo0ApkAtI)
-_Yasser Malaik, Valve_
-
-##### Designing for Virtual Reality (2015) [\[YouTube\]](https://www.youtube.com/watch?v=Qwh1LBzz3AU)
-_Alex Faaborg, Erica Morse, Jon Wiley, Manuel Clement, Google_
-
 ##### [Opinion] The Eyes Are the Prize: Eye-Tracking Technology Is Advertising's Holy Grail (2019) [\[Link\]](https://www.vice.com/en_us/article/bj9ygv/the-eyes-are-the-prize-eye-tracking-technology-is-advertisings-holy-grail)
 _Avi Bar-Zeev_
+
+##### Interaction Design in VR (2015) [\[YouTube\]](https://www.youtube.com/watch?v=_vQo0ApkAtI)
+_Yasser Malaik, Valve_
 
 ## Best Practices
 
