@@ -25,6 +25,9 @@ _Martin Schubert & Barrett Fox, Leap Motion_
 ##### Oculus Hand Tracking Best Practices [\[Link\]](https://developer.oculus.com/design/hands-design-intro/)
 _Facebook/Oculus_
 
+##### Spatial Computing is Not A Revolution [\[Link\]](https://blog.dimitridiakopoulos.com/2019/06/13/spatial-computing-hci/)
+_Dimitri Diakopoulos_
+
 ## Design Guidelines
 
 ##### XR Design Theory and Practice for Digital Eyewear (2020) [\[YouTube\]](https://www.youtube.com/watch?v=4o__z7aPlMw)
