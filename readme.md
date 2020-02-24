@@ -56,6 +56,9 @@ _Daqri_
 ##### Social Virtual Reality Best Practices (2018) [\[PDF\]](https://cdn.ymaws.com/www.igda.org/resource/collection/F9DE623A-C632-47D8-81C3-CB283FD7ECEE/Social_Virtual_Reality_Best_Practices.pdf)
 _Renee Gittins_
 
+##### Augmented Reality, Augmented Ethics: Who Hasthe Right to Augment a Particular Physical Space? (2018) [\[Link\]](https://digitalcommons.onu.edu/cgi/viewcontent.cgi?article=1134&context=phre_faculty)
+_Erica L. Neely_ 
+
 ## Technical Foundation
 
 ##### [Optics] Accommodation and Vergence in Head-mounted Displays (2017) [\[Link\]](http://doc-ok.org/?p=1602) 
