@@ -55,15 +55,6 @@ _Renee Gittins_
 
 ## Technical Foundation
 
-##### [Color Theory] From Hexcodes to Eyeballs (2018) [\[Link\]](http://jamie-wong.com/post/color/) 
-_Jamie Wong_
-
-##### [SLAM] Explained: Inside-Out Tracking (2017) [\[Link\]](https://blog.dimitridiakopoulos.com/2017/08/03/inside-out-tracking/)
-_Dimitri Diakopoulos_
-
-##### [SLAM] Visual SLAM algorithms: A survey from 2010 to 2016 (2016) [\[Link\]](https://link.springer.com/article/10.1186/s41074-017-0027-2)
-_Takafumi Taketomi_
-
 ##### [Optics] Accommodation and Vergence in Head-mounted Displays (2017) [\[Link\]](http://doc-ok.org/?p=1602) 
 _Oliver Kreylos_
 
@@ -72,6 +63,15 @@ _Gordon Wetzstein, Stanford University_
 
 ##### [Optics] Head Mounted Display Optics II (2018) [\[PDF\]](https://stanford.edu/class/ee267/lectures/lecture8.pdf)
 _Gordon Wetzstein, Stanford University_
+
+##### [SLAM] Explained: Inside-Out Tracking (2017) [\[Link\]](https://blog.dimitridiakopoulos.com/2017/08/03/inside-out-tracking/)
+_Dimitri Diakopoulos_
+
+##### [SLAM] Visual SLAM algorithms: A survey from 2010 to 2016 (2016) [\[Link\]](https://link.springer.com/article/10.1186/s41074-017-0027-2)
+_Takafumi Taketomi_
+
+##### [Color Theory] From Hexcodes to Eyeballs (2018) [\[Link\]](http://jamie-wong.com/post/color/) 
+_Jamie Wong_
 
 ## Academic Literature
 
