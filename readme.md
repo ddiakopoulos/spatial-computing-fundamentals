@@ -81,6 +81,9 @@ _Steven M. LaValle, Cambridge University Press_
 ##### The Sense of Embodiment in Virtual Reality (2012) [\[PDF\]](http://diposit.ub.edu/dspace/bitstream/2445/53294/1/634024.pdf)
 _Konstantina Kilteni, Raphaela Groten, Mel Slater_
 
+##### Enhancing Our Lives with Immersive Virtual Reality (2016) [\[PDF\]](https://www.frontiersin.org/articles/10.3389/frobt.2016.00074/full)
+_Mel Slater and Maria V. Sanchez-Vives_
+
 ##### How our body influences our perception of the world (2015) [\[Link\]](https://www.ncbi.nlm.nih.gov/pubmed/26124739) 
 _Lawrence R. Harris et al_
 
