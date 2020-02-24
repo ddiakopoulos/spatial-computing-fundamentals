@@ -36,9 +36,6 @@ _Yasser Malaik, Valve_
 ##### Designing for Virtual Reality (2015) [\[YouTube\]](https://www.youtube.com/watch?v=Qwh1LBzz3AU)
 _Alex Faaborg, Erica Morse, Jon Wiley, Manuel Clement, Google_
 
-##### A Quick Guide to Designing for AR on Mobile (2019) [\[Part 1\]](https://medium.com/@goatsandbacon/a-quick-guide-to-designing-for-augmented-reality-on-mobile-part-1-c8ecaaf303d5) [\[Part 2\]](https://medium.com/@goatsandbacon/a-quick-guide-to-designing-for-augmented-reality-on-mobile-part-2-fb76fe87dd41) [\[Part 3\]](https://medium.com/@goatsandbacon/a-quick-guide-to-designing-for-augmented-reality-on-mobile-part-3-2380f253467a) [\[Part 4\]](https://medium.com/@goatsandbacon/a-quick-guide-to-designing-for-augmented-reality-on-mobile-part-4-f554f5b80c24)
-_Bushra Mahmood_
-
 ## Best Practices
 
 ##### Design for Mixed Reality [\[Link\]](https://docs.microsoft.com/en-us/windows/mixed-reality/design)
@@ -95,3 +92,8 @@ _Myroslav Bachynskyi, Gregorio Palmas, Antti Oulasvirta, Tino Weinkauf_
 
 ##### Consumed Endurance: A Metric to Quantify Arm Fatigue of Mid-Air Interactions (2014) [\[PDF\]](http://hci.cs.umanitoba.ca/assets/publication_files/Consumed_Endurance_-_CHI_2014.pdf)
 _Hincapie-Ramos, Juan David and Guo, Xiang and Moghadasian, Paymahn and Irani, Pourang_
+
+## Mobile AR
+
+##### A Quick Guide to Designing for AR on Mobile (2019) [\[Part 1\]](https://medium.com/@goatsandbacon/a-quick-guide-to-designing-for-augmented-reality-on-mobile-part-1-c8ecaaf303d5) [\[Part 2\]](https://medium.com/@goatsandbacon/a-quick-guide-to-designing-for-augmented-reality-on-mobile-part-2-fb76fe87dd41) [\[Part 3\]](https://medium.com/@goatsandbacon/a-quick-guide-to-designing-for-augmented-reality-on-mobile-part-3-2380f253467a) [\[Part 4\]](https://medium.com/@goatsandbacon/a-quick-guide-to-designing-for-augmented-reality-on-mobile-part-4-f554f5b80c24)
+_Bushra Mahmood_
