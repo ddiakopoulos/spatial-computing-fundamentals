@@ -27,7 +27,7 @@ _Facebook/Oculus_
 
 ## Design Guidelines
 
-##### Visual Design Methods for Virtual Reality (2015) [\[Link\]](http://aperturesciencellc.com/vr/VisualDesignMethodsforVR_MikeAlger.pdf)
+##### XR Design Theory and Practice for Digital Eyewear (2020) [\[YouTube\]](https://www.youtube.com/watch?v=4o__z7aPlMw)
 _Mike Alger_
 
 ##### Interaction Design in VR (2015) [\[YouTube\]](https://www.youtube.com/watch?v=_vQo0ApkAtI)
