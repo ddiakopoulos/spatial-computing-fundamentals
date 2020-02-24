@@ -39,6 +39,9 @@ _Yasser Malaik, Valve_
 ##### Designing for Virtual Reality (2015) [\[YouTube\]](https://www.youtube.com/watch?v=Qwh1LBzz3AU)
 _Alex Faaborg, Erica Morse, Jon Wiley, Manuel Clement, Google_
 
+##### [Opinion] The Eyes Are the Prize: Eye-Tracking Technology Is Advertising's Holy Grail (2019) [\[Link\]](https://www.vice.com/en_us/article/bj9ygv/the-eyes-are-the-prize-eye-tracking-technology-is-advertisings-holy-grail)
+_Avi Bar-Zeev_
+
 ## Best Practices
 
 ##### Design for Mixed Reality [\[Link\]](https://docs.microsoft.com/en-us/windows/mixed-reality/design)
