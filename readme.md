@@ -22,6 +22,9 @@ _Chelsea Howe, Owlchemy Labs_
  3. ###### Exploring the Hand-Object Boundary (2017) [\[Link\]](http://blog.leapmotion.com/interaction-sprint-exploring-the-hand-object-boundary/)
 _Martin Schubert & Barrett Fox, Leap Motion_
 
+##### Oculus Hand Tracking Best Practices [\[Link\]](https://developer.oculus.com/design/hands-design-intro/)
+_Facebook/Oculus_
+
 ## Design Guidelines
 
 ##### Visual Design Methods for Virtual Reality (2015) [\[Link\]](http://aperturesciencellc.com/vr/VisualDesignMethodsforVR_MikeAlger.pdf)
