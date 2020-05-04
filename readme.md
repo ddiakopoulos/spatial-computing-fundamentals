@@ -39,16 +39,13 @@ _Avi Bar-Zeev_
 ##### Interaction Design in VR (2015) [\[YouTube\]](https://www.youtube.com/watch?v=_vQo0ApkAtI)
 _Yasser Malaik, Valve_
 
-## Best Practices
+## Best Practices, Behavior, Ethics
 
 ##### Design for Mixed Reality [\[Link\]](https://docs.microsoft.com/en-us/windows/mixed-reality/design)
 _Microsoft Corporation_
 
 ##### Oculus VR Best Practices Guide (2014+) [\[PDF\]](http://static.oculus.com/documentation/pdfs/intro-vr/latest/bp.pdf)
 _Oculus VR_
-
-##### Daqri AR Best Practices (2016) [\[Link\]](https://support.daqri.com/#!/content/ar-best-practices)
-_Daqri_ 
 
 ##### Social Virtual Reality Best Practices (2018) [\[PDF\]](https://cdn.ymaws.com/www.igda.org/resource/collection/F9DE623A-C632-47D8-81C3-CB283FD7ECEE/Social_Virtual_Reality_Best_Practices.pdf)
 _Renee Gittins_
