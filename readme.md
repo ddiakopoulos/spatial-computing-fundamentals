@@ -76,8 +76,6 @@ _Takafumi Taketomi_
 ##### [Color Theory] From Hexcodes to Eyeballs (2018) [\[Link\]](http://jamie-wong.com/post/color/) 
 _Jamie Wong_
 
-## Academic Literature
-
 ## Perception & Psychophysics
 
 ##### How our body influences our perception of the world (2015) [\[Link\]](https://www.ncbi.nlm.nih.gov/pubmed/26124739) 
