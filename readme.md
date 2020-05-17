@@ -50,6 +50,11 @@ _Renee Gittins_
 ##### Augmented Reality, Augmented Ethics: Who Has the Right to Augment a Particular Physical Space? (2018) [\[Link\]](https://digitalcommons.onu.edu/cgi/viewcontent.cgi?article=1134&context=phre_faculty)
 _Erica L. Neely_ 
 
+##### Harassment in Social VR: Implications for Design (2019) [\[Link\]](
+https://research.fb.com/publications/harassment-in-social-vr-implications-for-design/)
+_Lindsay Blackwell, Nicole Ellison, Natasha Elliott-Deflo, Raz Schwartz_
+
+
 ## Technology
 
 ##### VIRTUAL REALITY (2017) [\[PDF\]](http://vr.cs.uiuc.edu/vrbook.pdf)
