@@ -4,6 +4,9 @@
 
 ## HCI & Theories of Spatial Computing 
 
+##### XR Design Theory and Practice for Digital Eyewear (2020) [\[YouTube\]](https://www.youtube.com/watch?v=4o__z7aPlMw)
+_Mike Alger_
+
 ##### Designing for the Human Body in XR (2017) [\[Link\]](https://virtualrealitypop.com/designing-for-the-human-body-in-xr-e9ac88931e45)
 _Lauren Bedal_
 
@@ -15,17 +18,6 @@ _Timoni West, Unity_
 
 ##### Spatial Computing is Not A Revolution (2019) [\[Link\]](https://blog.dimitridiakopoulos.com/2019/06/13/spatial-computing-hci/)
 _Dimitri Diakopoulos_
-
-## Design Guidelines
-
-##### XR Design Theory and Practice for Digital Eyewear (2020) [\[YouTube\]](https://www.youtube.com/watch?v=4o__z7aPlMw)
-_Mike Alger_
-
-##### [Opinion] The Eyes Are the Prize: Eye-Tracking Technology Is Advertising's Holy Grail (2019) [\[Link\]](https://www.vice.com/en_us/article/bj9ygv/the-eyes-are-the-prize-eye-tracking-technology-is-advertisings-holy-grail)
-_Avi Bar-Zeev_
-
-##### Interaction Design in VR (2015) [\[YouTube\]](https://www.youtube.com/watch?v=_vQo0ApkAtI)
-_Yasser Malaik, Valve_
 
 ## Best Practices, Behavior, Ethics
 
@@ -40,6 +32,9 @@ _Renee Gittins_
 
 ##### Augmented Reality, Augmented Ethics: Who Has the Right to Augment a Particular Physical Space? (2018) [\[Link\]](https://digitalcommons.onu.edu/cgi/viewcontent.cgi?article=1134&context=phre_faculty)
 _Erica L. Neely_ 
+
+##### [Opinion] The Eyes Are the Prize: Eye-Tracking Technology Is Advertising's Holy Grail (2019) [\[Link\]](https://www.vice.com/en_us/article/bj9ygv/the-eyes-are-the-prize-eye-tracking-technology-is-advertisings-holy-grail)
+_Avi Bar-Zeev_
 
 ##### Harassment in Social VR: Implications for Design (2019) [\[Link\]](https://research.fb.com/publications/harassment-in-social-vr-implications-for-design/)
 _Lindsay Blackwell, Nicole Ellison, Natasha Elliott-Deflo, Raz Schwartz_
