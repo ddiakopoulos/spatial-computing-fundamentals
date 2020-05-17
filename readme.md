@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/ddiakopoulos/spatial-computing-fundamentals/master/assets/spatial-header.png"/>
 </p>
 
-## Somatic Computing & HCI
+## HCI & Theories of Spatial Computing 
 
 ##### Designing for the Human Body in XR (2017) [\[Link\]](https://virtualrealitypop.com/designing-for-the-human-body-in-xr-e9ac88931e45)
 _Lauren Bedal_
