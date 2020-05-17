@@ -7,6 +7,9 @@
 ##### Designing for the Human Body in XR (2017) [\[Link\]](https://virtualrealitypop.com/designing-for-the-human-body-in-xr-e9ac88931e45)
 _Lauren Bedal_
 
+##### Somatics and Surveillance in Embodied Technologies (2020) [\[Link\]](https://immerse.news/somatics-and-surveillance-in-embodied-technologies-7e597953d962)
+_Anna Henson_
+
 ##### Making The Tools for Spatial Computing (2018) [\[YouTube\]](https://www.youtube.com/watch?v=Kt14RwBZyF4)
 _Timoni West, Unity_
 
