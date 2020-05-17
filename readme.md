@@ -13,18 +13,6 @@ _Anna Henson_
 ##### Making The Tools for Spatial Computing (2018) [\[YouTube\]](https://www.youtube.com/watch?v=Kt14RwBZyF4)
 _Timoni West, Unity_
 
-##### Leap Motion Design Sprints
- 1. ###### Scaffolding in VR: Interaction Design for Stacking and Assembly (2018) [\[Link\]](http://blog.leapmotion.com/scaffolding-in-vr-interaction-design-for-stacking-and-assembly/)
- 2. ###### Summoning and Superpowers: Designing VR Interactions at a Distance (2018) [\[Link\]](http://blog.leapmotion.com/summoning-superpowers-designing-vr-interactions-distance/)
- 3. ###### Exploring the Hand-Object Boundary (2017) [\[Link\]](http://blog.leapmotion.com/interaction-sprint-exploring-the-hand-object-boundary/)
-_Martin Schubert & Barrett Fox, Leap Motion_
-
-##### Why Virtual Isn't Real to your Brain (2012) [\[Link\]](http://blogs.valvesoftware.com/abrash/why-virtual-isnt-real-to-your-brain/)
-_Michael Abrash_
-
-##### Oculus Hand Tracking Best Practices (2020) [\[Link\]](https://developer.oculus.com/design/hands-design-intro/)
-_Facebook/Oculus_
-
 ##### Spatial Computing is Not A Revolution (2019) [\[Link\]](https://blog.dimitridiakopoulos.com/2019/06/13/spatial-computing-hci/)
 _Dimitri Diakopoulos_
 
@@ -56,6 +44,9 @@ _Erica L. Neely_
 ##### Harassment in Social VR: Implications for Design (2019) [\[Link\]](https://research.fb.com/publications/harassment-in-social-vr-implications-for-design/)
 _Lindsay Blackwell, Nicole Ellison, Natasha Elliott-Deflo, Raz Schwartz_
 
+##### Oculus Hand Tracking Best Practices (2020) [\[Link\]](https://developer.oculus.com/design/hands-design-intro/)
+_Facebook/Oculus_
+
 ## Technology
 
 ##### VIRTUAL REALITY (2017) [\[PDF\]](http://vr.cs.uiuc.edu/vrbook.pdf)
@@ -76,10 +67,19 @@ _Dimitri Diakopoulos_
 ##### [SLAM] Visual SLAM algorithms: A survey from 2010 to 2016 (2016) [\[Link\]](https://link.springer.com/article/10.1186/s41074-017-0027-2)
 _Takafumi Taketomi_
 
-##### [Color Theory] From Hexcodes to Eyeballs (2018) [\[Link\]](http://jamie-wong.com/post/color/) 
-_Jamie Wong_
+##### Leap Motion Design Sprints
+ 1. ###### Scaffolding in VR: Interaction Design for Stacking and Assembly (2018) [\[Link\]](http://blog.leapmotion.com/scaffolding-in-vr-interaction-design-for-stacking-and-assembly/)
+ 2. ###### Summoning and Superpowers: Designing VR Interactions at a Distance (2018) [\[Link\]](http://blog.leapmotion.com/summoning-superpowers-designing-vr-interactions-distance/)
+ 3. ###### Exploring the Hand-Object Boundary (2017) [\[Link\]](http://blog.leapmotion.com/interaction-sprint-exploring-the-hand-object-boundary/)
+_Martin Schubert & Barrett Fox, Leap Motion_
 
 ## Perception & Psychophysics
+
+##### Why Virtual Isn't Real to your Brain (2012) [\[Link\]](http://blogs.valvesoftware.com/abrash/why-virtual-isnt-real-to-your-brain/)
+_Michael Abrash_
+
+##### From Hexcodes to Eyeballs (2018) [\[Link\]](http://jamie-wong.com/post/color/) 
+_Jamie Wong_
 
 ##### Model of Illusions and Virtual Reality (2017) [\[Link\]](https://www.frontiersin.org/articles/10.3389/fpsyg.2017.01125/full) 
 _Mar Gonzalez-Franco and Jaron Lanier_
