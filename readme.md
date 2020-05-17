@@ -10,9 +10,6 @@ _Lauren Bedal_
 ##### Making The Tools for Spatial Computing (2018) [\[YouTube\]](https://www.youtube.com/watch?v=Kt14RwBZyF4)
 _Timoni West, Unity_
 
-##### The Design of Time: Understanding Human Attention and Economies of Engagement (2017) [\[YouTube\]](https://www.youtube.com/watch?v=gIrfxZ4KbOA)
-_Chelsea Howe, Owlchemy Labs_
-
 ##### Leap Motion Design Sprints
  1. ###### Scaffolding in VR: Interaction Design for Stacking and Assembly (2018) [\[Link\]](http://blog.leapmotion.com/scaffolding-in-vr-interaction-design-for-stacking-and-assembly/)
  2. ###### Summoning and Superpowers: Designing VR Interactions at a Distance (2018) [\[Link\]](http://blog.leapmotion.com/summoning-superpowers-designing-vr-interactions-distance/)
@@ -95,6 +92,9 @@ _Myroslav Bachynskyi, Gregorio Palmas, Antti Oulasvirta, Tino Weinkauf_
 
 ##### Consumed Endurance: A Metric to Quantify Arm Fatigue of Mid-Air Interactions (2014) [\[PDF\]](http://hci.cs.umanitoba.ca/assets/publication_files/Consumed_Endurance_-_CHI_2014.pdf)
 _Hincapie-Ramos, Juan David and Guo, Xiang and Moghadasian, Paymahn and Irani, Pourang_
+
+##### The Design of Time: Understanding Human Attention and Economies of Engagement (2017) [\[YouTube\]](https://www.youtube.com/watch?v=gIrfxZ4KbOA)
+_Chelsea Howe, Owlchemy Labs_
 
 ## Mobile AR
 
