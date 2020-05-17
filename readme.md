@@ -54,7 +54,6 @@ _Erica L. Neely_
 https://research.fb.com/publications/harassment-in-social-vr-implications-for-design/)
 _Lindsay Blackwell, Nicole Ellison, Natasha Elliott-Deflo, Raz Schwartz_
 
-
 ## Technology
 
 ##### VIRTUAL REALITY (2017) [\[PDF\]](http://vr.cs.uiuc.edu/vrbook.pdf)
@@ -79,6 +78,9 @@ _Takafumi Taketomi_
 _Jamie Wong_
 
 ## Perception & Psychophysics
+
+##### Model of Illusions and Virtual Reality (2017) [\[Link\]](https://www.frontiersin.org/articles/10.3389/fpsyg.2017.01125/full) 
+_Mar Gonzalez-Franco and Jaron Lanier_
 
 ##### How our body influences our perception of the world (2015) [\[Link\]](https://www.ncbi.nlm.nih.gov/pubmed/26124739) 
 _Lawrence R. Harris et al_
