@@ -91,6 +91,9 @@ _Konstantina Kilteni, Raphaela Groten, Mel Slater_
 ##### Enhancing Our Lives with Immersive Virtual Reality (2016) [\[PDF\]](https://www.frontiersin.org/articles/10.3389/frobt.2016.00074/full)
 _Mel Slater and Maria V. Sanchez-Vives_
 
+##### Saliency in VR: How Do People Explore Virtual Environments (2017) [\[Link\]](https://ieeexplore.ieee.org/abstract/document/8269807) 
+_Sitzmann et al._
+
 ##### “Do you feel in control?”: Towards Novel Approaches to Characterise, Manipulate and Measure the Sense of Agency in Virtual Environments (2018) [\[PDF\]](https://camillejeunet.files.wordpress.com/2018/01/paper1249_final.pdf)
 _Camille Jeunet, Louis Albert, Ferran Argelaguet, Anatole Lecuyer_
 
